@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/yassir-hakimi-543678217/"> 
 <p align="left">
+  Linkedin
 </p>
 </a>
 <h3 align="left">Languages and Tools:</h3>
