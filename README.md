@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="background-color: #f5f5dc; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #f5f5dc">
   
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
