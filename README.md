@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- The background color is `#ffffff` for light mode and `#000000` for dark mode.
+ The background color is `#e6edf3` for light mode and `##e6edf3` for dark mode.
 
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
