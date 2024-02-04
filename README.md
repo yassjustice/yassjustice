@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Background Image](https://via.placeholder.com/1920x1080/e6edf3/ffffff?text=Hello+World)
+<!-- ![Background Image](https://via.placeholder.com/1920x1080/e6edf3/ffffff?text=Hello+World) -->
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
 
