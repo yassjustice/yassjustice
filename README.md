@@ -14,6 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+  body {
+    margin: 0;
+    overflow: hidden;
+  }
+
+  .background-image {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+  }
+
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 1;
+    color: #fff; /* Set text color to contrast with the background */
+  }
+</style>
 <img src="https://via.placeholder.com/1920x1080/e6edf3/ffffff?text=Hello+World" alt="Background Image" style="width: 100%; height: 1000vh; object-fit: cover; position: absolute">
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
