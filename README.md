@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  The background color is `#e6edf3` for light mode and `##e6edf3` for dark mode. (didn't work) 
-<div style="background-color: "white";"> helooooooo </div>
+<div style="background-color: "white";">  
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
 
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassjustice&show_icons=true&locale=en" alt="yassjustice" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassjustice&" alt="yassjustice" /></p>
+</div>
