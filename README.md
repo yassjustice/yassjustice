@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="background-image: url('https://via.placeholder.com/1200x600/e6edf3/ffffff?text=Hello+World'); padding: 20px; background-size: cover;">
+<img src="https://via.placeholder.com/1920x1080/e6edf3/ffffff?text=Hello+World" alt="Background Image" style="width: 100%; height: 100%; object-fit: cover;">
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
 
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassjustice&show_icons=true&locale=en" alt="yassjustice" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassjustice&" alt="yassjustice" /></p>
-</div>
+
