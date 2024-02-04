@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://via.placeholder.com/1920x1080/e6edf3/ffffff?text=Hello+World" alt="Background Image" style="width: 100%; height: 100%; object-fit: cover;">
+<img src="https://via.placeholder.com/1920x1080/e6edf3/ffffff?text=Hello+World" alt="Background Image" style="width: 10%; height: 10%; object-fit: cover;">
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
 
