@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://via.placeholder.com/1920x1080/e6edf3/ffffff?text=Hello+World" alt="Background Image" style="width: 100%; height: 1000vh; object-fit: cover; position: absolute">
+![Background Image](https://via.placeholder.com/1920x1080/e6edf3/ffffff?text=Hello+World)
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
 
