@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  The background color is `#e6edf3` for light mode and `##e6edf3` for dark mode. (didn't work) 
-<div style="background-color: "white";"> </div>
+<div style="background-color: "white";"> helooooooo </div>
 <h1 align="center">Hi 👋, I'm Hakimi Yassir</h1>
 <h3 align="center">I am Hakimi Yassir, a Full Stack Web developer - Morocco</h3>
 
