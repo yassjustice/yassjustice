@@ -65,8 +65,8 @@ I'm a passionate Full Stack Developer with a deep love for creating innovative s
   <a href="https://www.linkedin.com/in/yassir-hakimi-543678217/">
     <img src="https://img.shields.io/badge/LinkedIn-Yassir%20Hakimi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:hakimiyassir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hakimiyassir%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:hakimiyassir60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hakimiyassir60%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
 
