@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![Header Image](https://raw.githubusercontent.com/yassjustice/yassjustice/main/assets/github-header.png)
+![Header Image]([https://raw.githubusercontent.com/yassjustice/yassjustice/main/assets/github-header.png](https://github.com/yassjustice/yassjustice/blob/f83ee4ed9de8411d1e165796f4a652ce33cb477a/assets/watercolorBg.jpeg))
 
 <h1 align="center">👋 Hi there! I'm Yassir Hakimi</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast | Morocco 🌍</h3>
