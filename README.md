@@ -27,6 +27,22 @@
 
 ---
 
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://portfolio-1-0-murex.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌍 Visit%20My%20Portfolio-%230d1117?style=for-the-badge&logo=vercel&logoColor=white&color=blueviolet" alt="Portfolio Badge" />
+  </a>
+</p>
+
+<p align="center">
+  ✨ Dive into my work, UI/UX craft, and projects on  
+  <a href="https://portfolio-1-0-murex.vercel.app" target="_blank"><strong>my personal portfolio site</strong></a>.  
+  It's made with love, minimalism, and a touch of React magic ✨
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
