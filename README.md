@@ -23,7 +23,7 @@
 🎯 Motto: *"Build with vision, refine with passion."*
 
 - 💬 Ask me about: `React`, `Node.js`, `AWS`, `Azure`
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yassir-hakimi-543678217/)
+- 📫 Reach me at: <a href="https://www.linkedin.com/in/yassir-hakimi-543678217/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - ⚡ Fun fact: I used to commute **15 km** daily on an **e-bike** 🚴‍♂️
 
 ---
@@ -31,14 +31,14 @@
 ## 🌐 My Portfolio
 
 <p align="center">
-  <a href="https://portfolio-1-0-murex.vercel.app" target="_blank">
+  <a href="https://portfolio-1-0-murex.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌍 Visit%20My%20Portfolio-%230d1117?style=for-the-badge&logo=vercel&logoColor=white&color=blueviolet" alt="Portfolio Badge" />
   </a>
 </p>
 
 <p align="center">
   ✨ Dive into my work, UI/UX craft, and projects on  
-  <a href="https://portfolio-1-0-murex.vercel.app" target="_blank"><strong>my personal portfolio site</strong></a>.  
+  <a href="https://portfolio-1-0-murex.vercel.app" target="_blank" rel="noopener noreferrer"><strong>my personal portfolio site</strong></a>.  
   It's made with love, minimalism, and a touch of React magic ✨
 </p>
 
@@ -91,11 +91,11 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yassir-hakimi-543678217/">
+  <a href="https://www.linkedin.com/in/yassir-hakimi-543678217/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:hakimiyassir60@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hakimiyassir60%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:yassirhakimi60@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-yassirhakimi60%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -104,7 +104,7 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/hakimiyassir">
+  <a href="https://www.buymeacoffee.com/hakimiyassir" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
