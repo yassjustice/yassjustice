@@ -2,7 +2,7 @@
 
 <!-- Header Image (Resized for better layout) -->
 <p align="center">
-  <img src="https://github.com/yassjustice/yassjustice/blob/f83ee4ed9de8411d1e165796f4a652ce33cb477a/assets/watercolorBg.jpeg" width="30%" alt="Header Image" />
+  <img src="https://github.com/yassjustice/yassjustice/blob/f83ee4ed9de8411d1e165796f4a652ce33cb477a/assets/watercolorBg.jpeg" width="50%" alt="Header Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Yassir Hakimi</h1>
