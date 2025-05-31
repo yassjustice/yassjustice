@@ -7,10 +7,11 @@
 
 <h1 align="center">Hi 👋, I'm Yassir Hakimi</h1>
 <h3 align="center">Full Stack Developer | Creative Technologist | Morocco 🇲🇦</h3>
-
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yassjustice&label=Profile%20views&color=6a00f4&style=flat-square" alt="Profile views" />
 </p>
+-->
 
 ---
 
