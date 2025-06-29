@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yassir Hakimi</h1>
-<h3 align="center">Full Stack Developer | Creative Technologist | Morocco 🇲🇦</h3>
+<h3 align="center">Full Stack Developer | Morocco 🇲🇦</h3>
 <!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yassjustice&label=Profile%20views&color=6a00f4&style=flat-square" alt="Profile views" />
@@ -19,12 +19,10 @@
 
 💡 I'm a passionate **Full Stack Developer** who loves building clean, scalable, and creative digital solutions.  
 🧠 Always learning, currently diving deep into **3D Web Development with Three.js**.  
-🛠️ From backend logic to sleek frontend interfaces — I love crafting meaningful experiences.  
-🎯 Motto: *"Build with vision, refine with passion."*
+🛠️ From backend logic to sleek frontend interfaces.
 
 - 💬 Ask me about: `React`, `Node.js`, `AWS`, `Azure`
 - 📫 Reach me at: <a href="https://www.linkedin.com/in/yassir-hakimi-543678217/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- ⚡ Fun fact: I used to commute **15 km** daily on an **e-bike** 🚴‍♂️
 
 ---
 
