@@ -6,7 +6,6 @@
 
 Morocco 🇲🇦 &nbsp;·&nbsp; EN / FR / AR
 
-I don't just write code — I build tools that solve real problems.\
 If something frustrates me, I build the fix. If something doesn't exist yet, I make it.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yassir--hakimi.vercel.app-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://yassir-hakimi.vercel.app)
